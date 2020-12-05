@@ -1,0 +1,8 @@
+
+p > span{
+    color: red;
+}
+
+p > .title {
+    color: red;
+}
